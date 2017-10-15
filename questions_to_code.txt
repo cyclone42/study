@@ -1,0 +1,18 @@
+Fizz buzz (loop from 0 to 100, on multiples of 3 print fizz, multiples of 5 buzz)
+Binary tree traversal (pre-order, in order, post-order and level-order)
+Calculate the angles between hands on a clock given a time
+Implement a basic stack
+Implement a basic queue
+
+Bonus things recommended by the book:
+Hardest bug you've fixed (why? How'd you solve it?)
+Most rewarding project you worked on
+Most difficult project you've worked on
+Most fun project and why..
+
+
+
+
+
+
+

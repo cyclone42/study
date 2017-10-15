@@ -1,0 +1,6 @@
+# clock class
+
+class clocky
+
+
+
